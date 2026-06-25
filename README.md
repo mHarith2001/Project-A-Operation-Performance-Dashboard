@@ -47,10 +47,10 @@ The interactive dashboard provides a comprehensive view of sales performance thr
 - `images/dashboard_screenshots/full_dashboard.png`
 - `images/before_after_comparison.png`
 ## Screenshots
-- - Raw data sample ![Alt text](https://github.com/mHarith2001/Project-A-Operation-Performance-Dashboard/blob/bacf84bbae9681a0aad3f278ed9707177e2fc693/Screenshot/Raw%20Dataset.png))
-- Cleaning steps
-- QA checks
-- Final dashboard
+- - Raw data sample ![Rawdata]()
+- Cleaning steps ![Rawdata]()
+- QA checks ![Rawdata]()
+- Final dashboard ![full_dashboard]()
 ## How to Open the Workbook
 - Open `Lead_Conversion_Dashboard.xlsx` in Microsoft Excel
 - Review `Raw_Data`, `Clean_Data`, `Dashboard_Calcs`, and `Dashboard`
@@ -62,5 +62,5 @@ This project is part of my professional data analytics portfolio. If you have an
 - **Name:** Muhammad Harith Bin Jamal
 - **Role Focus:** Junior Data Analyst / Business Intelligence 
 - **Certifications:** Google Data Analytics Professional, Macquarie University Excel Skills for Business
-- **GitHub:** [Your GitHub Profile Link]
-- **LinkedIn:** [Your LinkedIn Profile Link]
+- **GitHub:** [[GitHub Profile](https://github.com/mHarith2001)]
+- **LinkedIn:** [www.linkedin.com/in/muhammad-harith-4376332a0]
