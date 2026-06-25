@@ -47,7 +47,7 @@ The interactive dashboard provides a comprehensive view of sales performance thr
 - `images/dashboard_screenshots/full_dashboard.png`
 - `images/before_after_comparison.png`
 ## Screenshots
-- Raw data sample ![Alt text](Screenshot/Raw Dataset.png)
+- - Raw data sample ![Alt text](https://github.com/mHarith2001/Project-A-Operation-Performance-Dashboard/blob/bacf84bbae9681a0aad3f278ed9707177e2fc693/Screenshot/Raw%20Dataset.png))
 - Cleaning steps
 - QA checks
 - Final dashboard
