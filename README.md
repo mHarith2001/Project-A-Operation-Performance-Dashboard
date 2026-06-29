@@ -1,6 +1,6 @@
 # Project A - Operational Performance & Lead Conversion Dashboard
 ## Overview
-In modern sales operations, data integrity is the foundation of strategic decision-making. This project showcases an end-to-end data cleaning and business intelligence solution built entirely within Microsoft Excel. By processing a raw, compromised CRM dataset of 2,999 records, I developed a completed, formula-based pipeline to resolve critical data quality issues, including duplicate ID, typos, inconsistent date formats, and irregular interaction counts. This resulting clean, reliable dataset enables accurate KPI tracking and actionable dashboard insights.
+In Company sales operations, data integrity is the foundation of strategic decision-making. This project showcases an end-to-end data cleaning and business intelligence solution built entirely within Microsoft Excel. By processing a raw, compromised CRM dataset of 2,999 records, I developed a completed, formula-based pipeline to resolve critical data quality issues, including duplicate ID, typos, inconsistent date formats, and irregular interaction counts. This resulting clean, reliable dataset enables accurate KPI tracking and actionable dashboard insights.
 ## Business Problem
 A company was struggling to manage its CRM leads. Because the data was entered manually across multiple touchpoints, the raw export was heavily compromised by operational errors. Duplicate lead IDs skewed volume metrics, 23 different status variants fragmented the sales funnel, and mixed date formats prevented chronological trend analysis. Furthermore, response times were recorded in varying units (such as days, hours, and text strings), and interaction counts contained negative values and invalid text.
 
@@ -47,10 +47,10 @@ The interactive dashboard provides a comprehensive view of sales performance thr
 - `images/dashboard_screenshots/full_dashboard.png`
 - `images/before_after_comparison.png`
 ## Screenshots
-- Raw data sample
-- Cleaning steps
+- - Raw data sample [https://github.com/mHarith2001/Project-A-Operation-Performance-Dashboard/blob/9196e95d29d4a4c4d00a023296c90dab4cadeaa0/Screenshot/Raw%20Dataset.png]
+- Cleaning steps 
 - QA checks
-- Final dashboard
+- Final dashboard ![full_dashboard](https://github.com/mHarith2001/Project-A-Operation-Performance-Dashboard/blob/9196e95d29d4a4c4d00a023296c90dab4cadeaa0/Screenshot/dashboard_screenshot/full_dashboard.png)
 ## How to Open the Workbook
 - Open `Lead_Conversion_Dashboard.xlsx` in Microsoft Excel
 - Review `Raw_Data`, `Clean_Data`, `Dashboard_Calcs`, and `Dashboard`
@@ -62,5 +62,5 @@ This project is part of my professional data analytics portfolio. If you have an
 - **Name:** Muhammad Harith Bin Jamal
 - **Role Focus:** Junior Data Analyst / Business Intelligence 
 - **Certifications:** Google Data Analytics Professional, Macquarie University Excel Skills for Business
-- **GitHub:** [Your GitHub Profile Link]
-- **LinkedIn:** [Your LinkedIn Profile Link]
+- **GitHub:** [[GitHub Profile](https://github.com/mHarith2001)]
+- **LinkedIn:** [www.linkedin.com/in/muhammad-harith-4376332a0]
