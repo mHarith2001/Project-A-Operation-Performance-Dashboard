@@ -14,3 +14,6 @@ desktop.ini
 # Temporary files
 *.tmp
 *.bak
+
+# Raw source extracts are excluded from the portfolio repository
+data/raw/
